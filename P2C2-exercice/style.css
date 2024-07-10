@@ -1,5 +1,8 @@
 a {
   color: black;
+  font-size: 1em;
+  font-family:'Manrope', sans-serif;
+  text-decoration: none;
 }
 
 .important {
@@ -17,8 +20,7 @@ p {
   font-family:'Manrope', sans-serif;
 }
 
-p {
+ul {
   font-size: 1em;
   font-family:'Manrope', sans-serif;
 }
-
