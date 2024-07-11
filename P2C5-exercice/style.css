@@ -41,10 +41,7 @@ li {
   border-radius: 50px;
 }
 
-.competences {
-  border-right: 1px;
-  border-right-color: #8e86b5;
-  border-bottom: 1px;
-  border-bottom-color: #8e86b5;
-
+.carre-contenu {
+  border-right: 1px solid #8e86b5;
+  border-bottom: 1px solid #8e86b5;
 }
